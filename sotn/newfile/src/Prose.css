@@ -1,0 +1,7 @@
+.prose {
+  position: absolute;
+  width: 200px;
+  font-size: 18px;
+  color: #333;
+  transform: rotate(-20deg);
+}
